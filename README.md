@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Hello World ! I'm Taki , a Tunisia Mobile Developer and Embedded Systems Programmer
+# Hello World ! I'm Taki , a Tunisia Mobile Developer and Embedded Systems Programmer
 
 
 ## 🌐 Socials:
