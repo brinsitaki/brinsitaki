@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **brinsitaki/brinsitaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-# Hello World ! I'm Taki , a Tunisia Mobile Developer and Embedded Systems Programmer
+# 💫 About Me: 
+Hi there 👋 I'm Taki , a Tunisia Mobile Developer and Embedded Systems Programmer
 
 
 ## 🌐 Socials:
